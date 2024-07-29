@@ -12,4 +12,4 @@
    
 5.Upload the html format of the resume 
 
-6. Link - http://mystaticbucket-manishyl.s3-website-us-east-1.amazonaws.com/
+6.Link - http://mystaticbucket-manishyl.s3-website-us-east-1.amazonaws.com/
